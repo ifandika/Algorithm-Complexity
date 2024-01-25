@@ -1,0 +1,4 @@
+# For all html file
+*.html
+*/*.html
+
